@@ -14,7 +14,8 @@ public class First { // declare first class
             waitTimes.put(dir, new ArrayList<>());
         } // input queue and time 
 
-        // Main loop
+        // Main loop 
+        
         while (true) { // keep run option 3 choose
             System.out.println("\n------- Traffic Signal Control ===");
             System.out.println("1. Add car to road");
