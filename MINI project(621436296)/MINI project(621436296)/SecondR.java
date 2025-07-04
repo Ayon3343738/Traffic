@@ -17,7 +17,9 @@ public class SecondR {
             this.time = time;
             this.direction = direction;
         }// construct
-    }
+    } 
+
+    
 
     // Tree node class
     static class TreeNode {//Define BST for treenode
